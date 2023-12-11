@@ -1,4 +1,4 @@
-# web_scraping_with_data_analysis
+# Web Scraping Mars News and Weather Data - Summary
  Mission to Mars Web Scraping & Data Analysis with Beautiful Soup
 
 
